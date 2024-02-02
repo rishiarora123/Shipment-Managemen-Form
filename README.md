@@ -1,1 +1,3 @@
 # Shipment-Managemen-Form
+
+I created a form using JavaScript, HTML, and CSS, and I programmatically store data in a JsonPowerDB. I want to learn about JsonPowerDB and API testing via this project. I can now explore and understand the intricacies of interacting with a JSON-based database thanks to the combination of these tools, which has given me important new perspectives on the field of API testing. By enabling me to use JavaScript to connect to a backend database and dynamically handle data via a form, this useful tool expands my understanding of web development. My knowledge of working with databases and APIs has improved thanks to this practical experience, which broadens my skill set in web development and testing.
